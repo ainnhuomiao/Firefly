@@ -1,6 +1,6 @@
 ---
 title: CentOS7在部署OpenStack中的两次换源
-published: 2026-5-10
+published: 2026-05-10 
 ---
 
 # CentOS7 在部署 OpenStack 中的两次换源
