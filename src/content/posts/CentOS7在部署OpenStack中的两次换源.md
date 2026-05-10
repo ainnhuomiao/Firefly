@@ -1,3 +1,8 @@
+---
+title: CentOS7在部署OpenStack中的两次换源
+published: true
+---
+
 # CentOS7 在部署 OpenStack 中的两次换源
 
 随着 CentOS7 在 2024 年 6 月 30 日正式宣布停止维护，官方不再提供更新和安全补丁，从而导致其本身的 yum 包管理器已无法使用，进而无法安装所必须的软件包，所以需要进行换源使 yum 源可用。
