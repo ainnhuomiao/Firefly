@@ -47,12 +47,12 @@ export const adConfig2: AdConfig = {
 	image: {
 		src: "assets/images/cover.avif",
 		alt: "支持博主",
-		link: "about/",
+		link: "/",
 		external: false,
 	},
 	link: {
 		text: "支持一下",
-		url: "about/",
+		url: "/",
 		external: false,
 	},
 	closable: true,
